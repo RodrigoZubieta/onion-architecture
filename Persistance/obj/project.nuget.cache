@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDScU1bDBUYUQdlH1CIujtMeRRsE1JtODXV8ch/Yi6VhN6GGXZtBw52meFk6NyRiunwpzxrTUwRHDlkwiez0IA==",
+  "success": true,
+  "projectFilePath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Persistance\\Persistance.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://ci.pricetravel.com.mx:81/nuget/pricetravel/\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://ci.pricetravel.com.mx:81/nuget/Alianzas-Comerciales\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://ci.pricetravel.com.mx:81/nuget/Default\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\Debug\net6.0\ref\Persistance.dll

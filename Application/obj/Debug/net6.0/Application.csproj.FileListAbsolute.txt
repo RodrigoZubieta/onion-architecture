@@ -1,0 +1,12 @@
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Application\bin\Debug\net6.0\Application.deps.json
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Application\bin\Debug\net6.0\Application.dll
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Application\bin\Debug\net6.0\Application.pdb
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Application\obj\Debug\net6.0\Application.dll
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Application\obj\Debug\net6.0\refint\Application.dll
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Application\obj\Debug\net6.0\Application.pdb
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Application\obj\Debug\net6.0\ref\Application.dll
