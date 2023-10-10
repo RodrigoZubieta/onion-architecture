@@ -926,11 +926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\WebAPI\\obj\\",
+      "outputPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -951,8 +951,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Application\\Application.csproj": {
-              "projectPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Application\\Application.csproj"
+            "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Application\\Application.csproj": {
+              "projectPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Application\\Application.csproj"
             }
           }
         }

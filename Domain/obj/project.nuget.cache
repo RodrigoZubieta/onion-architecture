@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRqwrmjFp2r88Z4L+45GXhDvtP+E9GSAZzEmtT/L5LEbkFBmDxxkFnzQ6+G+K8KDOPdqJESLONPVJd11FyKpjw==",
+  "dgSpecHash": "eIdRI7Vd64LFK10dOMI4PoDqnWqO7yA7mBs3/ZzGMemetvIKR6nh1RdmqCJnGL9S1KcPQDCp86239vGR02BEQw==",
   "success": true,
-  "projectFilePath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {

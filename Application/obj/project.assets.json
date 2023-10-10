@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Ardalis.Specification/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Ardalis.Specification.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Ardalis.Specification.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "AutoMapper/12.0.1": {
         "type": "package",
         "dependencies": {
@@ -183,6 +196,24 @@
     }
   },
   "libraries": {
+    "Ardalis.Specification/7.0.0": {
+      "sha512": "e2bd6AN7V0FGOgmCq+srEPmz03PEIkESoyG/QKHxX76ezI13COvi/2WX09f1wLFKdex9gVqxCtNSBH9pvYFUVQ==",
+      "type": "package",
+      "path": "ardalis.specification/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ardalis.specification.7.0.0.nupkg.sha512",
+        "ardalis.specification.nuspec",
+        "icon.png",
+        "lib/net6.0/Ardalis.Specification.dll",
+        "lib/net6.0/Ardalis.Specification.pdb",
+        "lib/net6.0/Ardalis.Specification.xml",
+        "lib/netstandard2.0/Ardalis.Specification.dll",
+        "lib/netstandard2.0/Ardalis.Specification.pdb",
+        "lib/netstandard2.0/Ardalis.Specification.xml"
+      ]
+    },
     "AutoMapper/12.0.1": {
       "sha512": "hvV62vl6Hp/WfQ24yzo3Co9+OPl8wH8hApwVtgWpiAynVJkUcs7xvehnSftawL8Pe8FrPffBRM3hwzLQqWDNjA==",
       "type": "package",
@@ -467,6 +498,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Ardalis.Specification >= 7.0.0",
       "AutoMapper >= 12.0.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "FluentValidation >= 11.7.1",
@@ -480,11 +512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Application\\Application.csproj",
+      "projectPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Application\\obj\\",
+      "outputPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -516,6 +548,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Ardalis.Specification": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
           "AutoMapper": {
             "target": "Package",
             "version": "[12.0.1, )"

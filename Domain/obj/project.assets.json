@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Domain\\Domain.csproj",
+      "projectPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Domain\\obj\\",
+      "outputPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

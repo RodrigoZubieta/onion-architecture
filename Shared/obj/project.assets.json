@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Shared\\Shared.csproj",
+      "projectUniqueName": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Shared\\Shared.csproj",
+      "projectPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
       "outputPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Shared\\obj\\",
       "projectStyle": "PackageReference",

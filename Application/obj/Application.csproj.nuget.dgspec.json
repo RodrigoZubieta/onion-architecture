@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Application\\Application.csproj": {}
+    "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Application\\Application.csproj": {
+    "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Application\\Application.csproj",
+        "projectPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-template\\Application\\obj\\",
+        "outputPath": "C:\\xGitPersonal\\Onion-Architecture\\Onion-Architecture-Template\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "AutoMapper": {
               "target": "Package",
               "version": "[12.0.1, )"
