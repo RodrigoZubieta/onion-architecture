@@ -23,6 +23,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{0EA46A94-2B1C-49F9-A276-6B21E5E40BD8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{9308213D-C95C-440B-B901-6C28386906BB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{41F0E3A7-481D-4F58-A385-A5DF996F1997} = {41F0E3A7-481D-4F58-A385-A5DF996F1997}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

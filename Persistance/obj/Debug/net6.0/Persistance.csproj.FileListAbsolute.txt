@@ -10,3 +10,8 @@ C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\D
 C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\Debug\net6.0\refint\Persistance.dll
 C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\Debug\net6.0\Persistance.pdb
 C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-Template\Persistance\bin\Debug\net6.0\Application.dll
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-Template\Persistance\bin\Debug\net6.0\Domain.dll
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-Template\Persistance\bin\Debug\net6.0\Application.pdb
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-Template\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-Template\Persistance\obj\Debug\net6.0\Persistance.csproj.CopyComplete

@@ -10,3 +10,6 @@ C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Shared\obj\Debug\
 C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Shared\obj\Debug\net6.0\refint\Shared.dll
 C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Shared\obj\Debug\net6.0\Shared.pdb
 C:\xGitPersonal\Onion-Architecture\Onion-Architecture-template\Shared\obj\Debug\net6.0\ref\Shared.dll
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-Template\Shared\bin\Debug\net6.0\Application.dll
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-Template\Shared\bin\Debug\net6.0\Application.pdb
+C:\xGitPersonal\Onion-Architecture\Onion-Architecture-Template\Shared\obj\Debug\net6.0\Shared.csproj.CopyComplete
